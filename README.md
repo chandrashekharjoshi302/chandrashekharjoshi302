@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **MEAN Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
