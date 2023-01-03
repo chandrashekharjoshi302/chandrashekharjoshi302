@@ -22,9 +22,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakash-singh-41b31b231" height="30" width="40" /></a>
-</p>
+
 
 ## 🚀 Languages and Tools:-
 
@@ -35,8 +33,6 @@
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>  
   <img src="https://img.icons8.com/color/48/000000/redux.png"/> 
      <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
    <img src="https://img.icons8.com/color/48/000000/git.png"/> 
   
@@ -62,9 +58,6 @@
 
 
 <br/>
-<br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=chandrashekharjoshi302&theme=gruvbox&hide_border=true&area=true)
-<br/>
 <br/>
 
