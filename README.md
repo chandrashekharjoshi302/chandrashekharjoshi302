@@ -55,9 +55,7 @@
  <img alt="NODE JS" src="https://camo.githubusercontent.com/4e85146d0009df49e897ef4c2d92fcc04186e532a34920141da1c128f234ce03/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64392f4e6f64652e6a735f6c6f676f2e7376672f3132383070782d4e6f64652e6a735f6c6f676f2e7376672e706e67" style="margin:2px;" height=30  />
  <img alt="WING" src="https://camo.githubusercontent.com/f1bd5881c40a5b8c21d76385a2740e4d92143ad80c02bb8b0cff4c58bf485af2/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f36342f77696b6970656469612e706e67" style="margin:2px;" height=30  />
  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;" height=30  />
- <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;" height=30  />
- <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;" height=30  />
- <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;" height=30  />
+
 <br/>
  
 </p>
