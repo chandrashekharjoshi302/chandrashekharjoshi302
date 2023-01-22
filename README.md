@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **(chandrashekharjoshi02@gmail.com)**
 
-- 📫 Reach out with me by  **[(Linked)](https://www.linkedin.com/in/chandrashekhar-joshi-105282228/)**
+- 📫 Reach out with me by  **[(LinkedIn)](https://www.linkedin.com/in/chandrashekhar-joshi-105282228/)**
 
 - ⚡ Fun fact :- `**knowledge is a key**`
 
