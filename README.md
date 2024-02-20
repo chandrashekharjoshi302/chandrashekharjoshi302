@@ -1,6 +1,6 @@
 # Hey <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=87ceeb&size=25&center=false&lines=hey!+its+Prakash;Full-stack-web-developer...)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=87ceeb&size=25&center=false&lines=hey!+its+Chandrashekhar;Full-stack-web-developer...)](https://git.io/typing-svg)
 
  Aspiring full stack web developer with excellent problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set with a special emphasis on CSS. Able to see things from various points of view and able to understand and follow instructions
 
