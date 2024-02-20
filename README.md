@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singhprakash14&label=Profile%20views&color=0e75b6&style=flat" alt="singhprakash14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrashekharjoshi302&label=Profile%20views&color=0e75b6&style=flat" alt="singhprakash14" /> </p>
 <img align="right" alt="coding" width="310px" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zjdsbmsgypzjbs6mzj2ypzuoqmbo4ntwbsnk6oaj&rid=giphy.gif&ct=g"/>
 
 
