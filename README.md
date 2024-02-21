@@ -45,7 +45,7 @@
 </br>
 </br>
 
-![singhprakash14 GitHub stats](https://github-readme-stats.vercel.app/api?username=singhprakash14&show_icons=true&theme=radical) 
+![chandrashekharjoshi302 GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrashekharjoshi302&show_icons=true&theme=radical) 
 
 </br>
 
