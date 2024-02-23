@@ -59,7 +59,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharjoshi302&" alt="prakashsingh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharjoshi302" alt="prakashsingh" /></p>
 
 
 <br/>
