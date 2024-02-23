@@ -1,4 +1,4 @@
-# Hey <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
+# Hey <img src="https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=87ceeb&size=25&center=false&lines=hey!+its+Chandrashekhar;Full-stack-web-developer...)](https://git.io/typing-svg)
 
@@ -49,17 +49,17 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhprakash14&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/singhprakash14/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekharjoshi302&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/chandrashekharjoshi302/github-readme-stats)
 
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=singhprakash14)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chandrashekharjoshi302)](https://github.com/ryo-ma/github-profile-trophy)
 
 </br>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhprakash14&" alt="prakashsingh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharjoshi302&" alt="prakashsingh" /></p>
 
 
 <br/>
